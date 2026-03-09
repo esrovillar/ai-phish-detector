@@ -1,0 +1,98 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "auc_roc": 1.0,
+  "confusion_matrix": {
+    "true_negatives": 16,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_positives": 16
+  },
+  "train_samples": 128,
+  "test_samples": 32,
+  "n_features": 47,
+  "top_features": [
+    {
+      "name": "header_missing_message_id",
+      "importance": 0.0909
+    },
+    {
+      "name": "content_has_html",
+      "importance": 0.0893
+    },
+    {
+      "name": "url_min_typo_distance",
+      "importance": 0.0872
+    },
+    {
+      "name": "header_spf_pass",
+      "importance": 0.0832
+    },
+    {
+      "name": "header_dkim_pass",
+      "importance": 0.0809
+    },
+    {
+      "name": "url_unique_domains",
+      "importance": 0.075
+    },
+    {
+      "name": "header_return_path_mismatch",
+      "importance": 0.0747
+    },
+    {
+      "name": "header_dmarc_pass",
+      "importance": 0.0671
+    },
+    {
+      "name": "url_has_urls",
+      "importance": 0.0628
+    },
+    {
+      "name": "header_reply_to_mismatch",
+      "importance": 0.06
+    },
+    {
+      "name": "url_total_count",
+      "importance": 0.0572
+    },
+    {
+      "name": "content_html_text_ratio",
+      "importance": 0.0563
+    },
+    {
+      "name": "header_has_auth_results",
+      "importance": 0.0341
+    },
+    {
+      "name": "content_subject_length",
+      "importance": 0.0266
+    },
+    {
+      "name": "header_has_x_mailer",
+      "importance": 0.0157
+    },
+    {
+      "name": "header_suspicious_mailer",
+      "importance": 0.0123
+    },
+    {
+      "name": "content_se_total_patterns",
+      "importance": 0.007
+    },
+    {
+      "name": "content_char_count",
+      "importance": 0.006
+    },
+    {
+      "name": "header_high_priority",
+      "importance": 0.0036
+    },
+    {
+      "name": "content_caps_word_ratio",
+      "importance": 0.0035
+    }
+  ]
+}
