@@ -1,0 +1,48 @@
+From: "PayPal Security" <security@paypa1-support.xyz>
+To: victim@example.com
+Subject: URGENT: Your PayPal Account Has Been Limited!
+Date: Mon, 09 Mar 2026 10:30:00 +0000
+Message-ID: <abc123@paypa1-support.xyz>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Return-Path: <bounce@suspicious-server.top>
+Reply-To: reply-here@different-domain.click
+X-Mailer: PHPMailer 6.5.0
+X-Priority: 1
+Authentication-Results: mx.example.com; spf=fail; dkim=fail; dmarc=fail
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<div style="max-width: 600px; margin: 0 auto; border: 1px solid #ddd; padding: 20px;">
+<img src="http://paypa1-support.xyz/logo.png" alt="PayPal" width="150">
+<h2 style="color: #003087;">Account Security Alert</h2>
+
+<p>Dear Valued Customer,</p>
+
+<p>We have detected <b>unauthorized access</b> to your PayPal account from an unrecognized device.</p>
+
+<p><b>Details:</b></p>
+<ul>
+<li>Location: Lagos, Nigeria</li>
+<li>IP Address: 192.168.45.120</li>
+<li>Time: March 9, 2026 08:15 AM UTC</li>
+</ul>
+
+<p>Your account has been <span style="color: red; font-weight: bold;">TEMPORARILY SUSPENDED</span> for your protection.</p>
+
+<p>To restore access to your account, you must verify your identity immediately:</p>
+
+<p style="text-align: center;">
+<a href="http://paypa1-secure-verify.xyz/login?id=victim" style="background-color: #0070ba; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 16px;">VERIFY YOUR IDENTITY NOW</a>
+</p>
+
+<p style="color: red;"><b>WARNING:</b> If you do not verify within 24 hours, your account will be permanently closed and all funds will be frozen.</p>
+
+<p>Thank you for your immediate attention to this matter.</p>
+
+<p>Sincerely,<br>
+PayPal Security Team<br>
+<a href="http://bit.ly/3xFakeLink">PayPal Help Center</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,61 @@
+From: "Amazon.com" <ship-confirm@amazon.com>
+To: customer@gmail.com
+Subject: Your Amazon order has shipped (#110-4567890-1234567)
+Date: Sun, 08 Mar 2026 18:45:00 +0000
+Message-ID: <shipping.110-4567890-1234567@amazon.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Return-Path: <ship-confirm@amazon.com>
+Authentication-Results: mx.gmail.com; spf=pass smtp.mailfrom=amazon.com; dkim=pass header.d=amazon.com; dmarc=pass
+Received: from smtp-out.amazon.com (smtp-out.amazon.com [72.21.198.25])
+    by mx.gmail.com with ESMTPS id s5si12345678
+    for <customer@gmail.com>; Sun, 08 Mar 2026 18:45:01 +0000
+Received: from internal-relay.amazon.com (internal [10.25.30.45])
+    by smtp-out.amazon.com with ESMTP id abcdef123
+    for <customer@gmail.com>; Sun, 08 Mar 2026 18:45:00 +0000
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f3f3f3;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 20px;">
+
+<div style="border-bottom: 2px solid #232f3e; padding-bottom: 10px; margin-bottom: 15px;">
+<h2 style="color: #232f3e;">Your order has shipped!</h2>
+</div>
+
+<p>Hello,</p>
+
+<p>Great news! Your package is on its way.</p>
+
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+<tr style="background: #f8f8f8;">
+<td style="padding: 10px; border: 1px solid #ddd;"><b>Order #</b></td>
+<td style="padding: 10px; border: 1px solid #ddd;">110-4567890-1234567</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd;"><b>Item</b></td>
+<td style="padding: 10px; border: 1px solid #ddd;">Logitech MX Master 3S Wireless Mouse</td>
+</tr>
+<tr style="background: #f8f8f8;">
+<td style="padding: 10px; border: 1px solid #ddd;"><b>Carrier</b></td>
+<td style="padding: 10px; border: 1px solid #ddd;">UPS Ground</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd;"><b>Tracking</b></td>
+<td style="padding: 10px; border: 1px solid #ddd;">1Z999AA10123456784</td>
+</tr>
+<tr style="background: #f8f8f8;">
+<td style="padding: 10px; border: 1px solid #ddd;"><b>Estimated Delivery</b></td>
+<td style="padding: 10px; border: 1px solid #ddd;">March 11-13, 2026</td>
+</tr>
+</table>
+
+<p>You can track your package at <a href="https://www.amazon.com/gp/your-account/order-details?orderID=110-4567890-1234567">Your Orders</a>.</p>
+
+<p style="color: #666; font-size: 12px;">
+This email was sent from a notification-only address. Please do not reply directly to this email.
+If you have questions, visit <a href="https://www.amazon.com/help">Amazon Help</a>.
+</p>
+
+</div>
+</body>
+</html>

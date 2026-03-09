@@ -1,0 +1,58 @@
+From: "Microsoft Account Team" <no-reply@micros0ft-365.top>
+To: user@company.com
+Subject: Action Required: Your Microsoft 365 Password Expires Today
+Date: Sat, 07 Mar 2026 14:22:00 +0000
+Message-ID: <xyz789@micros0ft-365.top>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+Return-Path: <admin@cheap-hosting.ga>
+Reply-To: support@micros0ft-365.top
+X-Mailer: Python/3.10
+X-Priority: 1
+Authentication-Results: mx.company.com; spf=softfail; dkim=none; dmarc=fail
+
+--boundary123
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<div style="font-family: Segoe UI, sans-serif; max-width: 600px; margin: auto;">
+<div style="background-color: #0078d4; padding: 15px; color: white;">
+<h2>Microsoft 365</h2>
+</div>
+<div style="padding: 20px; border: 1px solid #eee;">
+<p>Dear User,</p>
+
+<p>Your Microsoft 365 password is set to <b>EXPIRE TODAY</b>. If you do not take action immediately, you will lose access to:</p>
+
+<ul>
+<li>Outlook Email</li>
+<li>OneDrive Files</li>
+<li>Teams Conversations</li>
+<li>All Microsoft 365 Applications</li>
+</ul>
+
+<p>Click the button below to keep your current password:</p>
+
+<p style="text-align: center;">
+<a href="http://192.168.1.55/m365/keep-password" style="background: #0078d4; color: white; padding: 12px 25px; text-decoration: none; display: inline-block;">KEEP MY PASSWORD</a>
+</p>
+
+<p>Or update your password at: <a href="http://micros0ft-secure.tk/reset">https://account.microsoft.com/security</a></p>
+
+<p style="color: #cc0000;">⚠️ ALERT: Failure to act within 4 hours will result in account suspension and data loss.</p>
+
+<p>Microsoft Account Security Team</p>
+</div>
+</div>
+</body>
+</html>
+
+--boundary123
+Content-Type: application/octet-stream; name="security_update.exe"
+Content-Disposition: attachment; filename="security_update.exe"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIGZha2UgYXR0YWNobWVudCBmb3IgdGVzdGluZyBwdXJwb3Nlcy4=
+
+--boundary123--

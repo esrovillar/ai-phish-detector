@@ -1,0 +1,46 @@
+From: "Sarah Johnson" <sarah.johnson@acmecorp.com>
+To: team@acmecorp.com
+Subject: Re: Q1 Project Timeline Update
+Date: Mon, 09 Mar 2026 09:15:00 -0600
+Message-ID: <20260309091500.A4F2B@mail.acmecorp.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Return-Path: <sarah.johnson@acmecorp.com>
+Authentication-Results: mx.acmecorp.com; spf=pass smtp.mailfrom=acmecorp.com; dkim=pass header.d=acmecorp.com; dmarc=pass
+Received: from mail.acmecorp.com (mail.acmecorp.com [203.0.113.50])
+    by mx.acmecorp.com with ESMTPS id abc123
+    for <team@acmecorp.com>; Mon, 09 Mar 2026 09:15:01 -0600
+Received: from [10.0.1.45] (laptop.internal [10.0.1.45])
+    by mail.acmecorp.com with ESMTP id def456
+    for <team@acmecorp.com>; Mon, 09 Mar 2026 09:15:00 -0600
+
+Hi team,
+
+Just wanted to share a quick update on our Q1 project timeline:
+
+1. Backend API migration - 85% complete, on track for March 20 delivery
+2. Frontend redesign - Sprint 3 starts this week, looking good
+3. Database optimization - Performance tests passed, ready for staging
+4. Documentation - Mike is handling the API docs, should be done by Friday
+
+Key dates:
+- March 15: Code freeze for release 2.1
+- March 18: QA testing begins
+- March 22: Staging deployment
+- March 29: Production release
+
+Let me know if anyone has concerns about the timeline. Happy to adjust 
+if needed.
+
+Also, don't forget about the team lunch this Friday at 12:30pm. I made 
+reservations at that new Italian place downtown.
+
+Best,
+Sarah
+
+--
+Sarah Johnson
+Senior Project Manager
+ACME Corporation
+sarah.johnson@acmecorp.com
+Tel: (555) 123-4567
